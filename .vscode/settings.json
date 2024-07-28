@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/4f582840-a44c-42ec-ad86-e2b4860ad113/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/InteractCXTestApp",
+    "appService.deploySubpath": "."
+}
